@@ -40,7 +40,7 @@ Unless specified, this content is licensed under the Creative Commons Attributio
 ![license](erleimg/88x31.png)
 
 
-All derivative works are to be attributed to of **Erle Robotics S.L.**.
+All derivative works are to be attributed to of **Erle Robotics S.L.**
 
 For any questions, concerns, or issues submit them to support [at] erlerobot.com.
 
