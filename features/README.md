@@ -10,6 +10,8 @@ drives, powered by high-quality high-speed motors and flexible rubber wheels
 are mounted on a high-strength aluminum alloy body. This robotic platform is
 suitable for indoor use or flat road surfaces.
 
+![rover](../img/Pirate_4WD.jpg)
+
 Other remarkable features are:
 
 |**Feature**|**Value**|

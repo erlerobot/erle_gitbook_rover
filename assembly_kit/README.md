@@ -31,5 +31,5 @@ The assembly kit will include the items listed below:
 
 
 
-![items](./items.jpg)
+![items](../img//items.jpg)
 
