@@ -1,7 +1,7 @@
-# Features
+
 # Features
 
-Our erle rover structure will be Pirate-four-wheel-drive Mobile Platform. The Pirate-4WD robot is a DFRobot original design and widely used
+Erle rover structure will be based on  [Pirate-four-wheel-drive Mobile Platform](http://www.dfrobot.com/index.php?route=product/product&path=37_111&product_id=97). The Pirate-4WD robot is a DFRobot original design and widely used
 as self-developed control panel. The platform can be
 controlled by a wide variety of microcontrollers including our erle-board.
 
