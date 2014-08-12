@@ -9,7 +9,7 @@
 
 This gitbook should document the construction and development of **Erle rover**.
 
-**Erle rover** is a terrestrial mobile platform, that will implement *erle board* technology for its control. Using *erle technology* will let controlling the rover with a tablet or a smartphone and program it to follow a desidered route.
+**Erle rover** is a terrestrial mobile platform, that will implement *erle board* technology for its control. Using *erle technology* will open a wide range of possibilities such as controlling the rover with a tablet or a smartphone, or also programing it to follow a desidered route.
 
 
 ![erlelogo](img/erlelogo2.png)
