@@ -11,4 +11,6 @@
    * [Base Plate Assembly](assembly/base_plate_assembly.md)
    * [Sensor Plate Assembly (Optional)](assembly/sensor_plate_assembly_optional.md)
    * [IR Sensor Bracket Assembly (Optional)](assembly/ir_sensor_bracket_assembly.md)
+   * [Wheels Assembly](assembly/wheels_assembly.md)
+   * [Upper Deck Assembly ](assembly/upper_deck_assembly.md)
 
