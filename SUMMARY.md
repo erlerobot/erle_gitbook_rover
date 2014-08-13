@@ -7,4 +7,6 @@
    * [Motors Assembly](assembly/motors_assembly.md)
    * [Battery Holder Assembly](assembly/battery_holder_assembly.md)
    * [Power Jack and Switch Assembly](assembly/power_jack_and_switch_assembly.md)
+   * [Front and Rear Plate Assembly ](assembly/front_and_rear_plate_assembly.md)
+   * [Base Plate Assembly](assembly/base_plate_assembly.md)
 
