@@ -14,4 +14,5 @@
    * [Wire up](assembly/wire_up.md)
    * [Wheels Assembly](assembly/wheels_assembly.md)
    * [Top Plate Assembly](assembly/top_plate_assembly.md)
+   * [Upper Deck Assembly](assembly/upper_deck_assembly.md)
 
