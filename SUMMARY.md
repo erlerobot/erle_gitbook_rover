@@ -10,4 +10,5 @@
    * [Front and Rear Plate Assembly ](assembly/front_and_rear_plate_assembly.md)
    * [Base Plate Assembly](assembly/base_plate_assembly.md)
    * [Sensor Plate Assembly (Optional)](assembly/sensor_plate_assembly_optional.md)
+   * [IR Sensor Bracket Assembly (Optional)](assembly/ir_sensor_bracket_assembly.md)
 
