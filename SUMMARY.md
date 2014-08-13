@@ -9,4 +9,5 @@
    * [Power Jack and Switch Assembly](assembly/power_jack_and_switch_assembly.md)
    * [Front and Rear Plate Assembly ](assembly/front_and_rear_plate_assembly.md)
    * [Base Plate Assembly](assembly/base_plate_assembly.md)
+   * [Sensor Plate Assembly (Optional)](assembly/sensor_plate_assembly_optional.md)
 
