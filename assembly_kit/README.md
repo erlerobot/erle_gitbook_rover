@@ -3,7 +3,7 @@
 The assembly kit will include the items listed below:
 
 |**Item**|**Number**|
-|--|--|
+|-------|--------|
 |Motors  P0301|4|
 |Wheel P0302 |4|
 |Battery holder  P0303 |1|
