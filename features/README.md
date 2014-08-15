@@ -15,7 +15,7 @@ suitable for indoor use or flat road surfaces.
 Other remarkable features are:
 
 |**Feature**|**Value**|
-|--|--|
+|-----|------|
 |Complete Machine Weight|710g|
 |Wheel Diameter | 65mm|
 |Highest Speed| 61cm/s|
