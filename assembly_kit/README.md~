@@ -1,11 +1,10 @@
 # Assembly kit
 
-The assembly kit you need will include the items listed below:
-
-######Mechanical
+The assembly kit will include the items listed below:
 
 |**Item**|**Number**|
 |-------|--------|
+|Motors  P0301|4|
 |Wheel P0302 |4|
 |Battery holder  P0303 |1|
 |Base Plate  M0301|1|
@@ -30,14 +29,7 @@ The assembly kit you need will include the items listed below:
 |Copper Standoff (M3x50mm) M0320|4|
 |M3 Nut M0321|2|
 
-#####Electronics
 
-
-|**Item**|**Number**|
-|-------|--------|
-|Motors  P0301|4|
-|ESC Brushed 20A Turnigy|4|
-|Wires|1 m.|
 
 ![items](../img//items.jpg)
 
