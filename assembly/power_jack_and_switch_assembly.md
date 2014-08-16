@@ -21,6 +21,6 @@ For example, my choice has been the left connector.This means that the switch wi
 
 - **Weld wires to the power jack**:
 
-The power jack will be use when we don't feed the rover with the five cells. You can weld three wires to it. For now left the other side  of the wire unpeeled, in order to avoid electrical dead shorts when wires touch each other.
+The power jack will be use when we use a  method different from feeding the rover with the five cells. You can weld three wires to it. For now left the other side  of the wire unpeeled, in order to avoid electrical dead shorts when wires touch each other.
 
 **For more support** see [this video](https://www.youtube.com/watch?v=2KnmKhGdK-U).

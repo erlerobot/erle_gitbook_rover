@@ -2,7 +2,7 @@
 
 The assembly kit you need will include the items listed below:
 
-######Mechanical
+######Mechanical components
 
 |**Item**|**Number**|
 |-------|--------|
@@ -30,7 +30,7 @@ The assembly kit you need will include the items listed below:
 |Copper Standoff (M3x50mm) M0320|4|
 |M3 Nut M0321|2|
 
-#####Electronics
+######Electronics
 
 
 |**Item**|**Number**|
