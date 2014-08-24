@@ -10,7 +10,7 @@ Now your power wires become the black-wire comming from the battery and the ON-w
 
 Then, **identify** one side motors with scotch tape, to be able to differentiate between the rigth and the left motors..
 
-Finally **remember to connect the cells**.
+Finally **remember to connect the cells**. WE USE LIPO BATTERY SO THIS FILE SHOULD BE CHANGED.
 
 ![cells](../img/assembly_img/a_cells.jpg)
 

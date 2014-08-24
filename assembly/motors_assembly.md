@@ -12,17 +12,20 @@ After having done this, take eigth pieces of wire and tie them to the metal-hole
 ![wires](../img/assembly_img/a_wires.jpg)
 
 
-We are now going to **connect the ESC** (Electronic Speed control) to the motors, We have choose The *TURNIGY BRUSHED 20A ESC*. One of each wires attached to the motors should be welded to one of the ESC connectors: the red wire from the motor with the red one from the ESC and the black wire from the motor with the black one of the ESC; like in the image:
+We are now going to **connect the ESC** (Electronic Speed control) to the motors, We have choose The *TURNIGY BRUSHED 20A ESC*. We will use one ESC for the rigth side motors and another one for the left side ones. This is because the APMrover2 works on **skid-steer mode**:
 
-![ESC](../img/assembly_img/ESC2.jpg)
+Skid-steer loaders are typically four-wheel vehicles with the wheels mechanically locked in synchronization on each side, and the left-side drive wheels can be driven independently of the right-side drive wheels. The wheels typically have no separate steering mechanism and hold a fixed straight alignment on the body of the machine. By turning the left and right wheel pairs at different speeds, the machine turns by skidding, or dragging its fixed-orientation wheels across the ground.
 
-Then we need to **collect together** all the red wires on one side, and all the black wires on the other.They will be the wires connected to the battery.
+The  wires attached to the *motors on the right* should be welded to one of the ESC connectors: the red wires from the motors with the red wire from the ESC and the black wires from the motors with the black wire of the ESC. The same should be done for the *left side motors*
+
+
+
+Then we need to **collect together** all the red wires comming from the ESC on one side, and all the black wires on the other.They will be the wires connected to the battery.
 You can gather them together, following the example in the images below:
 
-First put together the rigth side wires and the left side wires, separetely.In the image you can see the wires from the left side:
 
 ![ESC](../img/assembly_img/ESC3.jpg)
 
-Then, join the left and rigth side wires.You should get a **positive end (+)** formed from the red wires and a **negative end (-)** from the black wires:
+You should get a **positive end (+)** formed from the red wires and a **negative end (-)** from the black wires, that will be connected to the battery.
 
-![ESC](../img/assembly_img/ESC1.jpg)
+
