@@ -28,5 +28,5 @@ You can gather them together, following the example in the images below:
 
 You should get a **positive end (+)** formed from the red wires and a **negative end (-)** from the black wires, that will be connected to the battery.The result should look like the following image:
 
-![ESC](../img/assembñy_img/ESC1.jpg)
+![ESC](../img/assembly_img/ESC1.jpg)
 
