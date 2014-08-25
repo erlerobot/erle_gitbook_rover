@@ -15,4 +15,5 @@
    * [Wheels Assembly](assembly/wheels_assembly.md)
    * [Top Plate Assembly](assembly/top_plate_assembly.md)
    * [Upper Deck Assembly](assembly/upper_deck_assembly.md)
+* [Connecting to erle-board](connecting_to_erle-board/README.md)
 
