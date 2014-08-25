@@ -1,4 +1,4 @@
-# Motors Assembly
+# Motors and ESC Assembly
 
 ![motors](../img/assembly_img/a_motors.jpg)
 
@@ -26,6 +26,7 @@ You can gather them together, following the example in the images below:
 
 ![ESC](../img/assembly_img/ESC3.jpg)
 
-You should get a **positive end (+)** formed from the red wires and a **negative end (-)** from the black wires, that will be connected to the battery.
+You should get a **positive end (+)** formed from the red wires and a **negative end (-)** from the black wires, that will be connected to the battery.The result should look like the following image:
 
+![ESC](../img/assembñy_img/ESC1.jpg)
 
