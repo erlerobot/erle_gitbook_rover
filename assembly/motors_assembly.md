@@ -12,7 +12,7 @@ After having done this, take eigth pieces of wire and tie them to the metal-hole
 ![wires](../img/assembly_img/a_wires.jpg)
 
 
-We are now going to **connect the ESC** (Electronic Speed control) to the motors, We have choose The *TURNIGY BRUSHED 20A ESC*. We will use one ESC for the rigth side motors and another one for the left side ones. This is because the APMrover2 works on **skid-steer mode**:
+We are now going to **connect the ESC** (Electronic Speed control) to the motors, We have choose The *TURNIGY BRUSHED 20A ESC*. We will use one ESC for the right side motors and another one for the left side ones. This is because the APMrover2 works on **skid-steer mode**:
 
 Skid-steer loaders are typically four-wheel vehicles with the wheels mechanically locked in synchronization on each side, and the left-side drive wheels can be driven independently of the right-side drive wheels. The wheels typically have no separate steering mechanism and hold a fixed straight alignment on the body of the machine. By turning the left and right wheel pairs at different speeds, the machine turns by skidding, or dragging its fixed-orientation wheels across the ground.
 
