@@ -2,7 +2,7 @@
 
 ![upper](../img/assembly_img/a_upper.jpg)
 
-After doing all the connections and connecting the cells, attach the upper Deck usig four screws as indicated in the figure above.
+After doing all the connections and connecting the cells, attach the upper Deck using four screws as indicated in the figure above.
 You should **get out**, through the slots, the wires:
 
 - The motors + ESC wires: Positive and Negative ends.

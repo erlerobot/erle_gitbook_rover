@@ -1,7 +1,5 @@
 # Base Plate Assembly
 
-
-
 ![base](../img/assembly_img/a_base.jpg)
 
 The following steps consist on screwing the base plate to the front+rear+side structure we have.
