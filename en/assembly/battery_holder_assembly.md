@@ -1,4 +1,5 @@
-# Battery Holder Assembly
+# Battery Holder Assembly(optional)
+
 
 ![battery_holder](../img/assembly_img/a_battery.jpg)
 
@@ -6,3 +7,5 @@ For the assembly of the battery holder, you just have to fix it to the base plat
 The result should be something like this:
 
 ![battery_holder](../img/assembly_img/a_battery2.jpg)
+
+We will use LIPO battery, so for now this is not needed.

@@ -1,4 +1,4 @@
-# Power Jack and Switch Assembly
+# Power Jack and Switch Assembly(optional)
 
 ![power_switch](../img/assembly_img/a_switch.jpg)
 
@@ -24,3 +24,5 @@ For example, my choice has been the left connector.This means that the switch wi
 The power jack will be use when we use a  method different from feeding the rover with the five cells. You can weld three wires to it. For now left the other side  of the wire unpeeled, in order to avoid electrical dead shorts when wires touch each other.
 
 **For more support** see [this video](https://www.youtube.com/watch?v=2KnmKhGdK-U).
+
+For now this is not needed, we won't use it.
