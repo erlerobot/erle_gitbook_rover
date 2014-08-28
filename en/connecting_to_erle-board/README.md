@@ -14,3 +14,7 @@ To sum up:
 |3|right side|
 
 So you should connect the ESC following these specifications, that is the right side ESC to the channel 3 and the left side ESC to the channel 1.
+
+Remember to connect the lipo battery, to prove it, to the ESC (+ and -) ends. You will need a XT60 connector for doing this.
+
+![rover](..img/assembly_img/rover.jpg)
