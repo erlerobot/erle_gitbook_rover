@@ -14,3 +14,7 @@ En resumen:
 |3|lado derecho|
 
 Así que usted debe conectar el ESC siguiendo estas especificaciones, es decir el ESC del lado derecho en el canal 3 y el ESC del lado izquierdo al canal 1.
+
+Recuerda conectar la batería para probarlo, al final del ESC (+ y -).Necesitarás un conector XT60.
+
+![rover](..img/assembly_img/rover.jpg)

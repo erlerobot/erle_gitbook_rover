@@ -1,4 +1,4 @@
-# Montaje de la toma de alimentación y el interruptor
+# Montaje de la toma de alimentación y el interruptor(opcional)
 
 ![power_switch](../img/assembly_img/a_switch.jpg)
 
@@ -24,3 +24,5 @@ Por ejemplo, mi elección ha sido la del conector. Esto significa que el conmuta
 El conector de alimentación se puede utilizar cuando se utiliza un método diferente de alimentar el rover con las cinco celdas. Puedes soldar tres cables a la misma. Por ahora, dejamos el otro lado del cable sin pelar, con el fin de evitar cortocircuitos eléctricos cuando los cables se toquen entre sí.
 
 **Para más soporte** consulta el siguiente [vídeo](https://www.youtube.com/watch?v=2KnmKhGdK-U).
+
+Esto de moemnto no es necesario, no lo usaremos.

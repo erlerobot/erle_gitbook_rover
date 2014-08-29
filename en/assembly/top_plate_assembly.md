@@ -17,3 +17,5 @@ This wires will be later connected to the board, so please be careful to **take 
 
 
 ![upper](../img/assembly_img/a_upper1.3.jpg)
+
+Remember to mark the rigth and left side motors to differenciate them, before closing. For more info read *connecting with erle-board*.

@@ -15,3 +15,6 @@ Deben **salir** los cables a través  de las ranuras:
 Estos cables se conectan posteriomente a la placa, así que por favor tenga cuidado con los cables. Asimismo, recuerda identificar qué conectar pertenece a cada motor. Puedes por ejemplo numerarlos.
 
 ![upper](../img/assembly_img/a_upper1.3.jpg)
+
+Recuerda marcar, para diferenciar, los motores derecho e
+izquierdo. Para más información visita *conectado con erle-board*.
