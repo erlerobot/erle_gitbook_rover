@@ -21,3 +21,5 @@ Usually the red wire from the ESC is the +, the black wire the – and the withe
 Remember to connect the lipo battery, to prove it, to the ESC (+ and -) ends. You will need a XT60 connector for doing this.
 
 ![rover](..img/assembly_img/rover.jpg)
+
+You should, now, **check if all the wheels rotate in the same direction (forwards)**, do this before closing by screwing the top plate.If any of the wheels rotates backward then you should exchange the two wires connected to the motors(So, in our case the red wire goes up and the black goes down now). You don't need to touch the ESC connection, only the motors one.
