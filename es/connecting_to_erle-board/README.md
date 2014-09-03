@@ -19,4 +19,4 @@ Recuerda conectar la batería para probarlo, al final del ESC (+ y -).Necesitar�
 
 ![rover](..img/assembly_img/rover.jpg)
 
-Ahora debed comprobar si todas las ruedas giran juntas, hacia delante. Si no es as, debes intercambiar las conecxiones del motor, de aquella rueda que gire en sentido inverso ( en nuestro caso  deberíamos cambiar el cable rojo arriba y el cable negro abajo). No debes tocar la coneción d elso ESC, sólo la de los motores.
+Ahora debes comprobar si todas las **ruedas giran juntas, hacia delante**. Si no es as, debes intercambiar las conecxiones del motor, de aquella rueda que gire en sentido inverso ( en nuestro caso  deberíamos cambiar el cable rojo arriba y el cable negro abajo). No debes tocar la coneción d elso ESC, sólo la de los motores.
