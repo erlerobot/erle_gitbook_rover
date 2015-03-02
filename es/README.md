@@ -11,35 +11,30 @@ Este gitbook comenta la construcción y desarrollo del **rover Erle**.
 
 El **rover Erle** es una plataforma móvil terrestre, que implementa la *placa Erle* para su control. Utilizando la *tecnología de Erle* se abre un rango de posibilidades como el control del rover mediante un tableta o un smartphone, o incluso programarlo para que siga una ruta deseada.
 
-![erlelogo](img/erlelogo2.png)
+![erlerover](../en/img/erle.rover.jpg)
 
 
-##About
+##Info
 
-For years we've been working in the robotics field, particularly with drones. We have passed through different Universities and research centers and in all these places we actually found that most of the **drones are black boxes** (check out our [60s pitch](https://www.youtube.com/watch?v=tKAqjyXaC18)). Not meant to be used for learning, research. The software they use is in most of the cases unknown, closed source or **not documented**. Given these conditions, how are we going to educate the next generations on this technologies? How do you get started programming drones if you don't have $1000+ budget? Which platform allows me to get started with drones without risking a hand?
+Durante años, hemos estado trabajando en el campo de la robótica, particularmente con drones. Hemos estado en diferentes Universidades y centros de investigación, y en todos estos sitios hemos encontrado que la mayoría de los **drones son cajas negras** (mira nuestro [60s pitch](https://www.youtube.com/watch?v=tKAqjyXaC18)). No con la intención de usarlos para el aprendizaje, investigación. El software que usan la mayoría de las veces es desconocido, de código cerrado o **no documentado**. Dadas estas condiciones, cómo vamos a educar a las siguientes generaciones es éstas tecnologías? Como empezar a programar drones si no tienes +1000$? Que plataforma me permite empezar con los drones sin arriesgarme la mano?
 
-We are coming up with an answer to all these questions, our technology: **Erle**.
+Estamos llegando con una respuesta a todas estas preguntas, nuestra tecnología: **Erle**.
 
-![imgerle1](img/board2.png)
+![imgerle1](../en/img/erlelogo2.png)
 
-Inspired by the BeagleBone development board, we have designed a small computer with about 36+ sensors, plenty of I/O and processing power for real-time analysis. Erle is the enabling technology for the next generation of aerial and terrestrial robots that will be used in cities solving tasks such as surveillance, enviromental monitoring or even providing aid at catastrophes.
+Inspirado en la BeagleBoard, hemos diseñado un pequeño computador con más de 36 sensores, un montón de I/O y potencia de procesamiento para el análisis en tiempo real. Erle es la tecnología habilitadora para la próxima generación de robots aéreos y terrestres que se utilizará en las ciudades de resolución de tareas como la vigilancia, el monitoreo ambiental o incluso la prestación de ayuda en catástrofes.
 
-Our small-size Linux computer is bringing robotics to the people and businesses.
-
-
-
-##License
+Nuestro ordenador Linux de pequeñas dimensiones está acercando la robótica a la gente y los negocios.
 
 
 
+##Licencia
 
-Unless specified, this content is licensed under the Creative Commons Attribution-NonComercial-Share Alike 3.0 Unported License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
-
+A menos que se especifique lo contrario, éste contenido está bajo Creative Commons Attribution-NonComercial-Share Alike 3.0 Unported License Para ver una copia de la licencia visita http://creativecommons.org/licenses/by-sa/3.0/](http://creativecommons.org/licenses/by-sa/3.0/) o envía una carta a Creative Commons, 171 Second Street, Suite 300, San Francisco, California, 94105, USA.
 
 ![license](img/88x31.png)
 
 
-All derivative works are to be attributed to of **Erle Robotics S.L.**
+Todos los trabajos derivados deben de ser atribuidos a Erle Robotics S.L.. Para ver la lista de autores revisa **Erle Robotics S.L.**.
 
-For any questions, concerns, or issues submit them to support [at] erlerobot.com.
-
+Para cualquier pregunta, preocupación o problema contáctenos en support [en] erlerobot.com.
