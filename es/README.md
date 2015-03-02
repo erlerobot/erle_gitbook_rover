@@ -1,17 +1,16 @@
-#Erle Gitbook Rover
+#Erle Rover GitBook
 ---
 
-# Erle Robotics Rover Gitbook
 
 [![Build Status](https://www.gitbook.io/button/status/book/erlerobotics/erle_gitbook_unixintroduction)](https://www.gitbook.io/book/erlerobotics/erle_gitbook_unixintroduction/activity)
 
 ##Book
 
-Este gitbook comenta la construcción y desarrollo del **rover Erle**.
+Este gitbook comenta la construcción y desarrollo del **Erle-Rover**.
 
-El **rover Erle** es una plataforma móvil terrestre, que implementa la *placa Erle* para su control. Utilizando la *tecnología de Erle* se abre un rango de posibilidades como el control del rover mediante un tableta o un smartphone, o incluso programarlo para que siga una ruta deseada.
+**Erle Rover** es una plataforma móvil terrestre, que implementa la *placa Erle* para su control. Utilizando la *tecnología de Erle* se abre un rango de posibilidades como el control del rover mediante un tableta o un smartphone, o incluso programarlo para que siga una ruta deseada.
 
-![erlerover](../en/img/erle.rover.jpg)
+![erlerover](../en/img/erle-rover.jpg)
 
 
 ##Info
